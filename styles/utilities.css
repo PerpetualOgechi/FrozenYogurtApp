@@ -1,0 +1,91 @@
+.download {
+  display: flex;
+  margin-right: 30px;
+}
+ul {
+  display: flex;
+  list-style: none;
+  flex-direction: row;
+  align-items: center;
+  margin: 0 0 0 200px;
+  color: ;
+}
+
+a {
+  text-decoration: none;
+  color: #7a6666;
+}
+a:hover {
+  color: #9dad06;
+}
+
+.load {
+  margin-right: 30px;
+}
+
+.cta {
+  margin: 0 50px 0 0;
+}
+.home {
+}
+.about {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 30px 0 0 0;
+  position: relative;
+  margin: 0 50px 0 0;
+}
+.about:hover .product,
+.blog:hover .product {
+  opacity: 1;
+  color: #9dad06;
+}
+
+.product {
+  margin: 5px auto;
+  opacity: 0;
+}
+.blog {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  padding: 30px 0 0 0;
+  margin: 0 50px 0 0;
+}
+
+.single {
+  margin: 0 0 0 -30px;
+  color: #9dad06;
+}
+.product:hover {
+  opacity: 1;
+}
+
+.pro {
+  color: #fff;
+  padding: 0 0 0 40px;
+}
+
+.pro-container {
+  background: url(../images/icons.png) no-repeat 0 -128px;
+  height: 100px;
+  padding: 50px 0 0;
+  position: absolute;
+  flex-direction: row;
+
+  font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  right: 300px;
+  bottom: 100px;
+  z-index: 90;
+  width: 160px;
+  font-weight: ;
+  font-size: 20px;
+}
+.web {
+  display: block;
+}
