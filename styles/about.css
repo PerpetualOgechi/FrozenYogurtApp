@@ -10,9 +10,6 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-.origin-container {
-}
-
 .first-section {
   display: flex;
   flex-direction: row;
@@ -43,6 +40,7 @@ body {
 }
 .about-heading {
   color: #fff;
+  font-size: 28px;
 }
 .img-container {
   display: flex;

@@ -45,6 +45,7 @@ button {
 }
 .blog-heading {
   color: #fff;
+  font-size: 28px;
 }
 .main-container {
   display: flex;
